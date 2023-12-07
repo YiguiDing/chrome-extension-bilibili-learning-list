@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+    <app appid='gbinojpbjdljgkjpgblffhicgkhfieog'>
+        <updatecheck
+            version='0.0.1'
+            codebase='https://raw.githubusercontent.com/YiguiDing/chrome-extension-bilibili-learning-list/main/package/build.crx'
+        />
+    </app>
+</gupdate>
